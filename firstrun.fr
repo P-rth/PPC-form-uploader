@@ -1,0 +1,1 @@
+this is thus a file to let program konw its running for the first time
